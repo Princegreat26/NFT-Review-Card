@@ -1,0 +1,85 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+}
+
+div{
+    box-sizing: border-box;
+    border-radius: 3%;
+    border: 2px solid hsl(216, 50%, 16%);
+    width: 26%;
+    height: 600px;
+    background-color: hsl(216, 50%, 16%);
+    position: relative;
+    left: 40%;
+    top: 60px;
+}
+
+img{
+    border-radius: 2%;
+    width: 90%;
+    height: 300px;
+    position: relative;
+    left: 5%;
+    top: 15px;
+}
+p{
+    font-size: 18px;
+    font-family: 'Outfit', serif;
+    font-weight: 300, 400, 600;
+}
+
+#First{
+    color: white;
+    position: relative;
+    left: 5%;
+    top: 15px;
+}
+
+.first{
+    color: hsl(215, 51%, 70%);
+    position: relative;
+    left: 5%;
+    top: 15px;
+}
+
+#Eth{
+    color: hsl(178, 100%, 50%);
+    position: relative;
+    left: 5%;
+    top: 30px;
+}
+
+#clock{
+    color: hsl(215, 51%, 70%);
+    position: relative;
+    left: 65%;
+    bottom: 10px;
+}
+
+#nd{
+    height: 40px;
+    width: 10%;
+    border: 1px solid white;
+    border-radius: 100%;
+    position: relative;
+    top: 10px;
+}
+
+#fourth{
+    color: hsl(215, 51%, 70%);
+    position: relative;
+    left: 20%;
+    bottom: 45px;
+}
+
+#fifth{
+    color: white;
+    position: relative;
+    left: 50%;
+    bottom: 86px;
+}
+
+svg{
+    position: relative;
+    top: 2px;
+}
